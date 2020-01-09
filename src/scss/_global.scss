@@ -1,16 +1,13 @@
-// Global styling for this template
 body,
 html {
   width: 100%;
   height: 100%;
 }
 
-// Typography
 .text-white-75 {
   color: fade-out($white, .25);
 }
 
-// Custom horizontal rules
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
@@ -29,7 +26,6 @@ hr.light {
   border-color: $white;
 }
 
-// Button restyling
 .btn {
   font-family: $font-family-sans-serif;
 }
@@ -43,7 +39,6 @@ hr.light {
   border-radius: 10rem;
 }
 
-// Page section padding
 .page-section {
   padding: 8rem 0;
 }
